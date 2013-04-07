@@ -23,6 +23,8 @@ MIT (https://github.com/kenshin03/RouletteWheelCollectionViewDemo/blob/master/LI
 
 Screenshot
 ---
+[Vimeo Video](https://vimeo.com/63531931 "Vimeo Video")
+
 ![Screenshot](cover_image.png)
 
 
