@@ -16,6 +16,15 @@ Time taken for preparing the rendered images
 
 Done on a MBP 2.6 GHz i7 16GB
 
+---
+* CIGaussianBlur - 478.0 ms
+* GPUImageGaussianBlurFilter - 259.0 ms
+* GPUImageFastBlurFilter - 243.0 ms 
+
+On an iPhone 5 iOS 6.1.3 
+
+(However, the blurFilter.blurSize for GPU filters need to be adjusted to give the same blurriness as found on the simulator) 
+
 License
 ---
 MIT (https://github.com/kenshin03/RouletteWheelCollectionViewDemo/blob/master/LICENSE)
